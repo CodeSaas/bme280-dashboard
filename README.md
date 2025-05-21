@@ -7,7 +7,7 @@ Terminal dashboard to display BME280 sensor's readings
 1. Install the project
 
 ```sh
-git clone https://github.com/smrtfl/bme280-dashboard.git
+git clone https://github.com/CodeSaas/bme280-dashboard.git
 ```
 
 2. Setup Python Virtual Environment (optional)
